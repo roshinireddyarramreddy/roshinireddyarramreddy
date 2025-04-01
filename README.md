@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Node.js, Express.js, SQLite, React JS, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Node.js, Express.js, SQLite, React JS, MongoDB, DevOps**
 
 - 📫 How to reach me **arr.roshinireddy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i9mEJj-6UJE1PpDf78huMUOzPxxdLIMV/view?usp=sharing](https://drive.google.com/file/d/1i9mEJj-6UJE1PpDf78huMUOzPxxdLIMV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
